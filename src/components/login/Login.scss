@@ -1,0 +1,32 @@
+.login {
+    margin-bottom: 163px;
+  h1 {
+    text-align: center;
+    margin-top: 140px;
+    font-size: 100px;
+  }
+  .login_container {
+    background-color: #fff;
+    max-width: 1440px;
+    border-radius: 10px;
+    padding: 87px 70px;
+    h3 {
+      font-size: 36px;
+      text-align: center;
+      margin: 0 0 72px 0;
+    }
+    .login_item {
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+      input {
+        background-color: #e3ebf3;
+        border-radius: 4px;
+        border: 1px solid #e3ebf3;
+        width: 600px;
+        margin-bottom: 23px;
+        min-height: 52px;
+      }
+    }
+  }
+}

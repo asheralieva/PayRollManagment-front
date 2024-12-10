@@ -1,0 +1,36 @@
+.workers{
+    &-content {
+        padding: 40px;
+      }
+    &-charts {
+        h3 {
+          font-size: 32px;
+          font-weight: 700;
+        }
+        .charts {
+          width: 840px;
+    
+          &_heading {
+            border: 1px solid #212c5f;
+            padding: 11px;
+    
+            display: flex;
+            gap: 60px;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 24px;
+          }
+          &-items {
+            .charts-item {
+              display: flex;
+              border: 1px solid #212c5f;
+              padding: 11px;
+    
+              justify-content: space-between;
+              align-items: center;
+              font-size: 24px;
+            }
+          }
+        }
+      }
+}

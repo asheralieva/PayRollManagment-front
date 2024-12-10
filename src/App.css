@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Oswald:wght@200..700&display=swap");
+
+body {
+  background-color: #f1f3fc;
+  font-family: "DM Sans";
+  color: #212c5f;
+
+  margin: 0;
+}
+.container {
+  max-width: 1374px;
+  margin: 0 auto;
+}
+.app_content{
+    display: flex;
+    /* gap: 79px; */
+}

@@ -1,0 +1,45 @@
+.home-content {
+  padding: 40px;
+}
+.home-cards {
+  display: flex;
+  gap: 79px;
+}
+.home-cards .card {
+  text-align: center;
+  padding: 18px;
+  background-color: #fff;
+  width: 269px;
+  height: 181px;
+  border-radius: 60px;
+}
+.home-cards .card p {
+  font-size: 32px;
+}
+.home-cards .card span {
+  font-size: 28px;
+}
+.home-charts h3 {
+  font-size: 32px;
+  font-weight: 700;
+}
+.home-charts .charts {
+  width: 840px;
+}
+.home-charts .charts_heading {
+  border: 1px solid #212c5f;
+  padding: 11px;
+  display: flex;
+  gap: 60px;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 24px;
+}
+.home-charts .charts-items .charts-item {
+  display: flex;
+  border: 1px solid #212c5f;
+  padding: 11px;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 24px;
+}/*# sourceMappingURL=Home.css.map */

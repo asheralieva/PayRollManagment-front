@@ -1,0 +1,33 @@
+.header {
+  position: sticky;
+  font-size: 24px;
+  width: 369px;
+  background-color: #fff;
+  padding-top: 39px;
+  height: 100vh;
+}
+.header__content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.header_top {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 53px;
+}
+.header_top img {
+  width: 100px;
+}
+.header__menu .header__menu-item {
+  display: flex;
+  align-items: center;
+  gap: 26px;
+  margin: 40px 0 0 40px;
+  width: 349px;
+  margin-bottom: 52px;
+}
+.header__menu .header__menu-item img {
+  width: 34px;
+}/*# sourceMappingURL=Header.css.map */
